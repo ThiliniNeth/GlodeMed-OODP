@@ -96,3 +96,7 @@ The **Chain of Responsibility (CoR)** pattern is the backbone of GlobeMed's secu
 
 **Extensibility**: The chain can be easily updated to include new security layers like OTP or biometric checks.
 
+**🛠 Tech Stack**
+
+Java, Servlets, JSP, Hibernate, MySQL, HTML, CSS, JavaScript (AJAX), Apache Tomcat
+
